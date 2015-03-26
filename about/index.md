@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
+title: About Me
+tags: [about, ]
+modified: 2015-03-25T21:30:00.000000-04:00
 comments: true
 image:
   feature: sample-image-2.jpg
@@ -10,16 +10,12 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+I'm Andrew Hjortland, a PhD student at Purdue University in the department of
+mechanical engineering. I'm studying automated fault detection and diagnostics
+tools and fault impact evaluation methods with applications in optimal
+HVAC systems operations. My advisor is Dr. Jim Braun.
 
-## Minimal Mistakes is all about:
+## _Comfortably Air-Conditioned_ is:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+* musings of a HVAC systems engineer and researcher
+* and a personal blog for anything else I find interesting.
